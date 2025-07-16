@@ -1,0 +1,1 @@
+This is a sample text file for practicing file management commands like 'cat', 'mv', 'cp', and 'rm'.

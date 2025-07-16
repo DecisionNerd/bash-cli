@@ -1,6 +1,4 @@
-# Lesson Overview
+# 305. Making Changes Locally
 
-- Objectives
-- Key Concepts/Commands
-- Practice Exercises
-
+- Opening files and making simple edits (e.g., with a text editor)
+- Saving changes

@@ -1,0 +1,2 @@
+This file is for practicing the 'find' command.
+Try: find . -name 'findme.txt'

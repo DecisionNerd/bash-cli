@@ -1,0 +1,2 @@
+echo "backup.sh" | at 02:00
+# Schedules backup.sh to run at 2 AM

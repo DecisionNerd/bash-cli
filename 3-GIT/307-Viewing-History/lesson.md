@@ -1,6 +1,7 @@
-# Lesson Overview
+# 307. Viewing History
 
-- Objectives
-- Key Concepts/Commands
-- Practice Exercises
-
+- Viewing commit history:
+  ```sh
+  git log
+  ```
+- Understanding commit messages and IDs

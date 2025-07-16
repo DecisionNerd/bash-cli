@@ -1,6 +1,5 @@
-# Lesson Overview
+# 312. Recap and Next Steps
 
-- Objectives
-- Key Concepts/Commands
-- Practice Exercises
-
+- Review of what was learned
+- Where to go for help (GitHub Docs, community forums)
+- Encouragement to practice

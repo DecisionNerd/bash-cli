@@ -1,0 +1,4 @@
+# Navigation Notes
+- Use 'ls' to list files
+- Use 'pwd' to print the current directory
+- Use 'cd' to change directories 

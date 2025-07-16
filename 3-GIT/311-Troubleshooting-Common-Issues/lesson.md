@@ -1,6 +1,4 @@
-# Lesson Overview
+# 311. Troubleshooting Common Issues
 
-- Objectives
-- Key Concepts/Commands
-- Practice Exercises
-
+- Authentication problems
+- Merge conflicts (very basic, what to do if you see one)

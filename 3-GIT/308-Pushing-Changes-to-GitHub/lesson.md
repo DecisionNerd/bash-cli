@@ -1,6 +1,8 @@
-# Lesson Overview
+# 308. Pushing Changes to GitHub
 
-- Objectives
-- Key Concepts/Commands
-- Practice Exercises
-
+- What is “pushing”?
+- Pushing your changes:
+  ```sh
+  git push
+  ```
+- Seeing your changes appear on GitHub

@@ -1,6 +1,7 @@
-# Lesson Overview
+# 309. Pulling Updates from GitHub
 
-- Objectives
-- Key Concepts/Commands
-- Practice Exercises
-
+- What is “pulling”?
+- Getting the latest changes:
+  ```sh
+  git pull
+  ```

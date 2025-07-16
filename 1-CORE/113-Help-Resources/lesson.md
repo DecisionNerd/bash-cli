@@ -1,6 +1,3 @@
-# Lesson Overview
+# 113. Help Resources
 
-- Objectives
-- Key Commands/Concepts
-- Practice Exercises
-
+For more details, see the man pages for each command (e.g., `man ls`).

@@ -1,0 +1,4 @@
+# file: file.txt
+user::rw-
+group::r--
+other::r--

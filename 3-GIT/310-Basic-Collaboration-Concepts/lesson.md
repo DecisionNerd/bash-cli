@@ -1,6 +1,5 @@
-# Lesson Overview
+# 310. Basic Collaboration Concepts
 
-- Objectives
-- Key Concepts/Commands
-- Practice Exercises
-
+- Forking a repository (very basic explanation)
+- Making changes to your fork
+- Opening a pull request (simple, non-technical explanation)

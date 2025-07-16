@@ -1,6 +1,23 @@
-# Lesson Overview
+# 203. Process & Job Control
 
-- Objectives
-- Key Commands/Concepts
-- Practice Exercises
+Manage background jobs, process priorities, and persistent tasks.
 
+## Disowning Jobs
+
+```bash
+sleep 1000 &
+disown
+```
+
+## nohup
+
+```bash
+nohup long_running_command &
+```
+
+## nice/renice
+
+```bash
+nice -n 10 command
+renice 5 <PID>
+```

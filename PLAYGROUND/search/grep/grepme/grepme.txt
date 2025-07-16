@@ -1,0 +1,2 @@
+This is a nested grepme.txt file.
+Try: grep 'nested' grepme.txt

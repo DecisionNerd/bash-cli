@@ -1,6 +1,5 @@
-# Lesson Overview
+# 303. Finding Code on GitHub
 
-- Objectives
-- Key Concepts/Commands
-- Practice Exercises
-
+- Navigating GitHub’s website
+- Searching for repositories
+- Understanding repository pages (README, files, issues, etc.)

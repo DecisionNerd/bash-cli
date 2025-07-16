@@ -1,0 +1,2 @@
+cd /home/user/PLAYGROUND/files
+# Changes the current directory to files 

@@ -1,0 +1,2 @@
+echo "update.sh" | batch
+# Schedules update.sh to run when system load permits

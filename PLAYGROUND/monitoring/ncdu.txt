@@ -1,0 +1,3 @@
+--- /home/user/PLAYGROUND ---
+.  10.0 MiB [##########] /archives
+.   5.0 MiB [#####     ] /files

@@ -1,0 +1,3 @@
+# Deep Navigation
+- This is a note in a deeply nested directory.
+- Use 'cd ..' to go up one level.

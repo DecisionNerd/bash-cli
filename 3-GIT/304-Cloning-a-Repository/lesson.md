@@ -1,6 +1,8 @@
-# Lesson Overview
+# 304. Cloning a Repository
 
-- Objectives
-- Key Concepts/Commands
-- Practice Exercises
-
+- What does “cloning” mean?
+- Using the command line to clone a repository:
+  ```sh
+  git clone <repository-url>
+  cd <repository-folder>
+  ```

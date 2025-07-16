@@ -1,0 +1,3 @@
+# Nested Navigation Notes
+- You can have directories with the same name at different levels.
+- Try 'cd cd/cd' to go deeper.

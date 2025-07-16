@@ -1,0 +1,6 @@
+ls -alh
+# Example output:
+drwxr-xr-x  5 user  staff  160 Jun  1 10:00 .
+drwxr-xr-x  8 user  staff  256 Jun  1 09:59 ..
+-rw-r--r--  1 user  staff    0 Jun  1 10:00 file.txt
+-rw-r--r--  1 user  staff    0 Jun  1 10:00 notes.txt

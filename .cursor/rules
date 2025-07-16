@@ -1,0 +1,35 @@
+# Cursor Rules for Refactoring lesson.md Files
+
+1. **Lesson Structure:**
+
+   - All `lesson.md` files must follow this structure:
+     - `# {{TITLE}}`
+     - `## 📝 Summary` (1–2 paragraphs expanding the provided summary)
+     - `## 🎯 Learning Objectives` (3–5 bullet points referencing previous, current, and next lesson skills)
+     - `## 📚 Lesson Content` (clear, concise, scaffolded explanations with headings/subheadings)
+     - `## 💡 Guided Examples` (at least 2 fully worked, step-by-step examples, referencing the PLAYGROUND folder)
+     - `## 🧪 Practice Exercises` (3–5+ exercises, building on previous lessons and using the PLAYGROUND folder)
+
+2. **Cumulative Learning:**
+
+   - Each lesson should reinforce skills from previous lessons and set up for the next, as reflected in objectives, content, and exercises.
+   - Use a friendly, direct instructional tone.
+
+3. **Playground Integration:**
+
+   - Examples and exercises must reference or use files in the `PLAYGROUND/` folder, encouraging hands-on practice.
+   - Suggest branch-based workflows for resetting the playground as needed (see `PLAYGROUND/1-RULES.md`).
+
+4. **Consistency and Clarity:**
+
+   - Use Markdown syntax with clear headings, code blocks, and bullet points.
+   - Ensure all sections are present and coherent across the lesson series.
+   - Relate explanations to the overall course roadmap (see module READMEs).
+
+5. **Documentation Alignment:**
+
+   - Refactoring must align with the project's mission and architecture as described in the main `README.md` and module READMEs.
+   - Enhance features and roadmap as documented, ensuring lessons are modular and suitable for both self-learners and classroom use.
+
+6. **No Extra Output:**
+   - Only output the revised `lesson.md` content—no explanations or meta-commentary.

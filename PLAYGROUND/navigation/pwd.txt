@@ -1,0 +1,3 @@
+pwd
+# Example output:
+/home/user/PLAYGROUND/navigation
