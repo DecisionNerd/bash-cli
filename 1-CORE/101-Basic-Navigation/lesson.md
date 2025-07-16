@@ -132,4 +132,14 @@ cd -      # Go to the previous directory
 
 ---
 
+## ✅ Progress Check (Optional)
+
+After you run `ls -alh` and `pwd` in the `PLAYGROUND` directory, create two empty files named `.ls_check` and `.pwd_check` in the `PLAYGROUND` folder:
+
+```bash
+touch .ls_check .pwd_check
+```
+
+This helps automated scripts verify your progress in this lesson.
+
 _Next up: You'll learn how to create, delete, and identify files and folders in Lesson 102!_

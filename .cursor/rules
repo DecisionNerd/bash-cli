@@ -9,6 +9,7 @@
      - `## 📚 Lesson Content` (clear, concise, scaffolded explanations with headings/subheadings)
      - `## 💡 Guided Examples` (at least 2 fully worked, step-by-step examples, referencing the PLAYGROUND folder)
      - `## 🧪 Practice Exercises` (3–5+ exercises, building on previous lessons and using the PLAYGROUND folder)
+     - `## ✅ Progress Check (Optional)` (instructions for creating a marker file in the PLAYGROUND folder to verify lesson completion)
 
 2. **Cumulative Learning:**
 
@@ -20,16 +21,25 @@
    - Examples and exercises must reference or use files in the `PLAYGROUND/` folder, encouraging hands-on practice.
    - Suggest branch-based workflows for resetting the playground as needed (see `PLAYGROUND/1-RULES.md`).
 
-4. **Consistency and Clarity:**
+4. **Test Script Requirement:**
+
+   - Each lesson folder **must include a shell script** (e.g., `test_basic_navigation.sh` or `test_basic_file_management.sh`) that tests completion of the lesson.
+   - The test script must:
+     - Be located in the **same folder** as the corresponding `lesson.md` file.
+     - Use the `PLAYGROUND/` folder for all exercises and for verifying completion (e.g., by checking for marker files or exercise artifacts).
+     - Be idempotent and safe to run multiple times.
+     - Clearly report which checks pass or fail.
+
+5. **Consistency and Clarity:**
 
    - Use Markdown syntax with clear headings, code blocks, and bullet points.
    - Ensure all sections are present and coherent across the lesson series.
    - Relate explanations to the overall course roadmap (see module READMEs).
 
-5. **Documentation Alignment:**
+6. **Documentation Alignment:**
 
    - Refactoring must align with the project's mission and architecture as described in the main `README.md` and module READMEs.
    - Enhance features and roadmap as documented, ensuring lessons are modular and suitable for both self-learners and classroom use.
 
-6. **No Extra Output:**
-   - Only output the revised `lesson.md` content—no explanations or meta-commentary.
+7. **No Extra Output:**
+   - Only output the revised `lesson.md` content and required test script—no explanations or meta-commentary.

@@ -2,6 +2,8 @@
 
 A curated set of resources for learning and teaching basic Linux commands. This repository is designed for beginners, educators, and anyone interested in mastering the Linux command line.
 
+![Linux Logo](Linux_logo.png)
+
 ---
 
 ## Table of Contents
